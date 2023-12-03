@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "helloCS", "helloCS\helloCS.csproj", "{2D96CE8B-62C9-4E8C-98A3-29BDF47A2730}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "helloCS", "helloCS\helloCS.csproj", "{2D96CE8B-62C9-4E8C-98A3-29BDF47A2730}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter01", "Chapter01", "{4B2C5FD5-E37C-4A05-A2CC-39CBB6727FEB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter02", "Chapter02", "{94B00454-2539-48DB-A968-9D889CBB09EB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,6 +22,9 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2D96CE8B-62C9-4E8C-98A3-29BDF47A2730} = {4B2C5FD5-E37C-4A05-A2CC-39CBB6727FEB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6647C642-6B71-428A-9B08-49E652AC6F93}

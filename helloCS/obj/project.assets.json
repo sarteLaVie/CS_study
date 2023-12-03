@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\insom\\source\\repos\\Chapter01\\helloCS\\helloCS.csproj",
+      "projectUniqueName": "C:\\Users\\insom\\source\\repos\\sarteLaVie\\CS_study\\helloCS\\helloCS.csproj",
       "projectName": "helloCS",
-      "projectPath": "C:\\Users\\insom\\source\\repos\\Chapter01\\helloCS\\helloCS.csproj",
+      "projectPath": "C:\\Users\\insom\\source\\repos\\sarteLaVie\\CS_study\\helloCS\\helloCS.csproj",
       "packagesPath": "C:\\Users\\insom\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\insom\\source\\repos\\Chapter01\\helloCS\\obj\\",
+      "outputPath": "C:\\Users\\insom\\source\\repos\\sarteLaVie\\CS_study\\helloCS\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
