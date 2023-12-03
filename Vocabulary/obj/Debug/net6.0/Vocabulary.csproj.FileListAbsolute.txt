@@ -1,0 +1,4 @@
+C:\Users\insom\source\repos\sarteLaVie\CS_study\Vocabulary\obj\Debug\net6.0\Vocabulary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\insom\source\repos\sarteLaVie\CS_study\Vocabulary\obj\Debug\net6.0\Vocabulary.AssemblyInfoInputs.cache
+C:\Users\insom\source\repos\sarteLaVie\CS_study\Vocabulary\obj\Debug\net6.0\Vocabulary.AssemblyInfo.cs
+C:\Users\insom\source\repos\sarteLaVie\CS_study\Vocabulary\obj\Debug\net6.0\Vocabulary.csproj.CoreCompileInputs.cache
