@@ -2,3 +2,13 @@ C:\Users\insom\source\repos\sarteLaVie\CS_study\Vocabulary\obj\Debug\net6.0\Voca
 C:\Users\insom\source\repos\sarteLaVie\CS_study\Vocabulary\obj\Debug\net6.0\Vocabulary.AssemblyInfoInputs.cache
 C:\Users\insom\source\repos\sarteLaVie\CS_study\Vocabulary\obj\Debug\net6.0\Vocabulary.AssemblyInfo.cs
 C:\Users\insom\source\repos\sarteLaVie\CS_study\Vocabulary\obj\Debug\net6.0\Vocabulary.csproj.CoreCompileInputs.cache
+C:\Users\insom\Source\Repos\sarteLaVie\CS_study\Vocabulary\bin\Debug\net6.0\Vocabulary.exe
+C:\Users\insom\Source\Repos\sarteLaVie\CS_study\Vocabulary\bin\Debug\net6.0\Vocabulary.deps.json
+C:\Users\insom\Source\Repos\sarteLaVie\CS_study\Vocabulary\bin\Debug\net6.0\Vocabulary.runtimeconfig.json
+C:\Users\insom\Source\Repos\sarteLaVie\CS_study\Vocabulary\bin\Debug\net6.0\Vocabulary.dll
+C:\Users\insom\Source\Repos\sarteLaVie\CS_study\Vocabulary\bin\Debug\net6.0\Vocabulary.pdb
+C:\Users\insom\Source\Repos\sarteLaVie\CS_study\Vocabulary\obj\Debug\net6.0\Vocabulary.dll
+C:\Users\insom\Source\Repos\sarteLaVie\CS_study\Vocabulary\obj\Debug\net6.0\refint\Vocabulary.dll
+C:\Users\insom\Source\Repos\sarteLaVie\CS_study\Vocabulary\obj\Debug\net6.0\Vocabulary.pdb
+C:\Users\insom\Source\Repos\sarteLaVie\CS_study\Vocabulary\obj\Debug\net6.0\Vocabulary.genruntimeconfig.cache
+C:\Users\insom\Source\Repos\sarteLaVie\CS_study\Vocabulary\obj\Debug\net6.0\ref\Vocabulary.dll
